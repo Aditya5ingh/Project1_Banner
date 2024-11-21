@@ -1,0 +1,69 @@
+.banner {
+  margin-top: 80px;
+  width: 1012px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  height: 613px;
+}
+
+.left-banner {
+  position: relative;
+  width: 50%;
+}
+
+.left-banner p {
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+  color: #5a5959;
+}
+.top-left {
+  font-size: 45px;
+  font-weight: 800;
+  line-height: 102px;
+  text-transform: uppercase;
+}
+
+.bottom-left p {
+  width: 400px;
+  font-size: 16px;
+  padding-top: 20px;
+}
+button {
+  width: 150px;
+  height: 41px;
+  border: none;
+  margin: 3% auto 2% 0;
+}
+.but1 {
+  background-color: #d01c28;
+  color: white;
+  font-size: 24px;
+}
+h6 {
+  font-weight: 400;
+  text-transform: capitalize;
+}
+.but2 {
+  font-size: 24px;
+  margin-left: 24px;
+  border: 1px solid black;
+}
+
+.mentionLink img {
+  width: 32px;
+  height: 32px;
+  margin-right: 10px;
+  margin-top: 5px;
+}
+
+.right-banner {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.right-banner img {
+  width: 100%;
+}
